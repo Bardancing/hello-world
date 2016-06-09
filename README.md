@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-This is my first assignments, let's see how this works
+This is my first assignments, let's see how this works now
